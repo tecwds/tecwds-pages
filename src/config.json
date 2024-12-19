@@ -2,21 +2,20 @@
   "site": {
     "url": "http://blog.wpaint.top",
     "title": "云上百宝箱",
-    "description": "这看起来是一个博客？",
-    "keywords": "云原生,Docker,Kubernetes,Rust,Linux,Deepin,博客,Blog",
+    "description": "这里看起来像是一个博客！",
+    "keywords": "云原生,博客,Docker,Kubernetes,Rust,Linux,Deepin,Blog",
     "lang": "zh-CN",
     "favicon": "/favicon.ico",
-    "appleTouchIcon": "/apple-touch-icon.png"
+    "appleTouchIcon": "/favicon.ico"
   },
   "author": {
     "name": "tecwds",
-    "twitterId": "@lxchapu",
-    "avatar": "https://s2.loli.net/2024/04/30/ozsnuS5Ihf3xMBG.webp"
+    "avatar": "/avatar.jpg"
   },
   "hero": {
     "name": "tecwds",
-    "bio": "seem like a blog?",
-    "description": "English,Chglish,Rust,Docker,Kubernetes,Linux,Deepin",
+    "bio": "这里看起来像是一个博客！",
+    "description": "Docker,Kubernetes,Rust,Linux,Deepin,Blog",
     "socials": [
       {
         "name": "Github",
@@ -80,6 +79,11 @@
       "icon": "icon-ghost"
     },
     {
+      "name": "站点",
+      "link": "/site",
+      "icon": "icon-ghost"
+    },
+    {
       "name": "友链",
       "link": "/friends",
       "icon": "icon-hearts"
@@ -95,7 +99,7 @@
     "serverURL": "https://waline.lxchapu.com"
   },
   "sponsor": {
-    "wechat": "https://object.lxchapu.com/bed%2F2024%2F0507_6e3e8f73df2d4e6d.webp"
+    "wechat": "/money.png"
   },
   "analytics": {
     "enable": false,
