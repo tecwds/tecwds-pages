@@ -25,10 +25,19 @@ const title = await input({
   message: '请输入文章标题',
 })
 
+const tags = await input({
+  message: '请输入标签，以逗号分开',
+})
+
+const summary = await input({
+  message: '请输入摘要',
+})
+
 const content = `---
 title: ${title}
 date: ${new Date().toISOString()}
-tags: []
+summary: ${summary}
+tags: [${tags}]
 comments: true
 draft: false
 ---

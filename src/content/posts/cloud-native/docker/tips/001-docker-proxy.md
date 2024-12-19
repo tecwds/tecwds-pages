@@ -1,7 +1,8 @@
 ---
-title: Docker - 000 优雅的配置代理
-date: 2024-12-19
-lastMod: 2024-12-19T16:22:00.000Z
+title: Docker - 001 优雅的配置代理
+date: 2024-12-19T15:57:08.001Z
+tags: [Docker]
+comments: true
 summary: 果然还是离不开魔法梯子啊
 ---
 
